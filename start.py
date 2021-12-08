@@ -14,5 +14,5 @@ if __name__ == '__main__':
     #调用函数
     send_gift()
     show_dift()
-    print(have_gift)
+    #print(have_gift)
     #print("全局变量为 id ",id(have_gift))
