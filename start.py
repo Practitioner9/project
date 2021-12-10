@@ -9,10 +9,10 @@
 from project.gift import have_gift
 from project.send_gift import send_gift
 from project.show_gift import show_dift
-
 if __name__ == '__main__':
     #调用函数
     send_gift()
     show_dift()
+
     #print(have_gift)
     #print("全局变量为 id ",id(have_gift))
