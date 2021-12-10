@@ -7,7 +7,7 @@
 import project.salary.money as m
 import project.salary.send_money as s
 
-
+#显示发放工资
 def select_money():
 
     current_money= m.saved_money + s.send_money1
